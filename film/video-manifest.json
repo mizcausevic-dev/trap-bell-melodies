@@ -1,0 +1,26 @@
+{
+  "title": "Trap Bell Melodies",
+  "study": "z4701",
+  "bpm": 140,
+  "source_audio": "preview/trap-bell-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "940156373b582d76cbdc242e8757078ddb111001de7591ca2f38e9282278aca5",
+  "source_midi": "midi/z4701-trap-bell-melodies-opening/z4701-trap-bell-melodies-opening-combined.mid",
+  "source_midi_sha256": "8f44fe05dd78a3b9cac954d6db4a7f25e769e4f3db7999dcba0a58f3da218a2b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9f60a0d7cea50fc1aa5cdc488139dd2fa15ae24be3faa84e767a86139da97ddd",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "2833dc9904fe74f996f1e71e1baacdc87a2d887801f435437ccf1c2733f47de5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "4a2adbf97fb828c81ecfa04ef9cf709784d53b88d948b60e8b7b5c5f5f109e90",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

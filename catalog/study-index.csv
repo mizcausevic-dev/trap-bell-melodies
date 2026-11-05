@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z4701,Trap Bell Melodies Opening,pack-local equal-tempered pitch collection,B,140,4/4,480,32,61440,midi/z4701-trap-bell-melodies-opening/z4701-trap-bell-melodies-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4702,Trap Bell Melodies Variation,pack-local equal-tempered pitch collection,D,140,4/4,480,32,61440,midi/z4702-trap-bell-melodies-variation/z4702-trap-bell-melodies-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4703,Trap Bell Melodies Contrast,pack-local equal-tempered pitch collection,F,140,4/4,480,32,61440,midi/z4703-trap-bell-melodies-contrast/z4703-trap-bell-melodies-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z4704,Trap Bell Melodies Return,pack-local equal-tempered pitch collection,C,140,4/4,480,32,61440,midi/z4704-trap-bell-melodies-return/z4704-trap-bell-melodies-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

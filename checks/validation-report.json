@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:23.055554+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c37ae3756dd197345bd8aaabb82b576c7bb34e303ab812fbe4b8c128ec322625",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b88c0f3e4309309b03181500f1d44cd6fed8fed3defba55cd6db6b14dbd88688",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "992161a492507fe2b0fe52ec9ab1fd982d6fd3957a6a84f35a41d378e3bfcb21",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "ce1f18c692094b8ce8a5415e6f65bbf9b225937e62925eb4d9a34d9f3ddda7ad",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "319ad7c7871c033723725c9b8f0cc1e1ed9a3fb9a300a4196a54548f3033a46d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "49056056b24ae335b5a6a369818ea87f836199c1ea9f1f68eaacca8d64145b95",
+      "errors": []
+    },
+    {
+      "path": "midi/z4701-trap-bell-melodies-opening/z4701-trap-bell-melodies-opening-combined.mid",
+      "bytes": 5749,
+      "sha256": "8f44fe05dd78a3b9cac954d6db4a7f25e769e4f3db7999dcba0a58f3da218a2b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "bb35abc70060cf90c6e6ccc46695fd26ffc8a6c9cedfc443274afeae807c5c5f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f2d1d6c5268ac747c50034f76e5ea823e29c29e930f01e95864c71d300b2c01f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "992161a492507fe2b0fe52ec9ab1fd982d6fd3957a6a84f35a41d378e3bfcb21",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "ba695cd28beccf27416112008807f6317a52f3f2346e02d18fc0056bf1ad3921",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "3a350d8700d14fa2a45f38aacdc693228394d6e276a5c3ee108c0d80aa99f3d9",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2b70ba00e627aab39d89915ca1d0b1a254c20d9d3d761c6e585a185ca3ade8b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4702-trap-bell-melodies-variation/z4702-trap-bell-melodies-variation-combined.mid",
+      "bytes": 5748,
+      "sha256": "1965ec982bb635a3710bc524c6f60a39d81b0ec0a837c4908e28965a8294a82a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d7d2a105e0f53262202196d8abd5d6aac29844afcfdb5d5d341d9d4e593c6de3",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0e6cdd25242c839fa524ae7a522576f64972cb1de89983d6c33fe017e838eee5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "992161a492507fe2b0fe52ec9ab1fd982d6fd3957a6a84f35a41d378e3bfcb21",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "9a4c6d2551528e32c911ea9b0316c0dad6f8ec62d85add77cebd00e02399a24a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "2559461b62f843fc0a2bb1f2eb818a91b57105f568c97207b6b44a6ac3c98390",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cec27a8e728ad75e6201813272d69a7ff3eab6108fb746503b5972dcfa353030",
+      "errors": []
+    },
+    {
+      "path": "midi/z4703-trap-bell-melodies-contrast/z4703-trap-bell-melodies-contrast-combined.mid",
+      "bytes": 5714,
+      "sha256": "fd4c653754743a1fa25b1e666978febc72ae1e580ab4fa4ba714962968f2ca3e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fbb7d5ddfa991e6eccacd6a91d55212addf5eb9ae2101fed8b0a6422425eaef8",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bf7e9a1c6a54344cf9dc39a6304d191e3e77b2756b777902ecbea259c0f56b68",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "992161a492507fe2b0fe52ec9ab1fd982d6fd3957a6a84f35a41d378e3bfcb21",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "a350bd86660ac5fd44cdecef9e97477974ec59a8253eabe4692abdcd9a3edafe",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "f667066ce576821499571fd66fd6332c81075f9d3cad4885d9a0895fe23c3b45",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bff2e57355eb5f3fa7985cd047d7bee745f999a878d0008206635f1ab20c4f3f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4704-trap-bell-melodies-return/z4704-trap-bell-melodies-return-combined.mid",
+      "bytes": 5714,
+      "sha256": "62b23a6aee5919eaf1c617c84711fc9d31cb871ca379b2728551ef39d72d6878",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

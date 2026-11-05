@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/trap-bell-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "940156373b582d76cbdc242e8757078ddb111001de7591ca2f38e9282278aca5",
+  "source_midi_path": "midi/z4701-trap-bell-melodies-opening/z4701-trap-bell-melodies-opening-combined.mid",
+  "source_midi_sha256": "8f44fe05dd78a3b9cac954d6db4a7f25e769e4f3db7999dcba0a58f3da218a2b",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z4701",
+    "start_seconds": 0,
+    "end_seconds": 54.857
+  },
+  "measurement": {
+    "sample_peak": 0.098071,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
