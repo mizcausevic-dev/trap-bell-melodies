@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/trap-bell-melodies-midi.zip",
-      "bytes": 30854,
-      "sha256": "e01108e15c2fb53dfd5156e7a9f9fe73ec154c2557afadaf5759241fdb77a164"
+      "bytes": 31841,
+      "sha256": "ab6168b73885323a2293a39dcd0bdd3926013d85f08fc5fad396eb55baee295a"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9876,
-      "sha256": "d2dd60041121c2c9630944ab9d58b8ce1bb01ba3d63f64843016be7f51b0a8c7"
+      "bytes": 10066,
+      "sha256": "26aa8ec05408b3aead5c5f12e2b944334b54dca745c055aeacc494261e20a3e6"
     },
     {
       "path": "midi/z4701-trap-bell-melodies-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "62b23a6aee5919eaf1c617c84711fc9d31cb871ca379b2728551ef39d72d6878"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1164,
       "sha256": "6f19a5e7b60579eb3369d869b94b9e4a8245f055bd06b31a3defe2b70035b52a"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3944,
-      "sha256": "6ceafe98a18306ad3e3c8a592cff836406ae77bff46d1e647fa02b7130b39a01"
+      "bytes": 4059,
+      "sha256": "dc9a57375376945cf484fb8a5203c3a1ff47957b03ebf9ccf5f8d6b17c972f38"
     },
     {
       "path": "social/instagram/caption.txt",
